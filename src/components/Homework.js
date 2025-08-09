@@ -1,10 +1,10 @@
-// let a = 15;
-// let b = 35;
-// let c = 55;
+let a = 15;
+let b = 35;
+let c = 55;
 
-// var average ;
-// average = ((a+b+c)/3);
-// console.log("average is :" , average)
+var average ;
+average = ((a+b+c)/3);
+console.log("average is :" , average)
 
 
 let p = 620;
