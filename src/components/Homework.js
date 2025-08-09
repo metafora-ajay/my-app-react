@@ -1,15 +1,15 @@
-let a = 15;
-let b = 35;
-let c = 55;
+// let a = 15;
+// let b = 35;
+// let c = 55;
 
-var average ;
-average = ((a+b+c)/3);
-console.log("average is :" , average)
+// var average ;
+// average = ((a+b+c)/3);
+// console.log("average is :" , average)
 
 
-let p = 620;
-let q = 680;
-let r = 760;
+let p = 820;
+let q = 880;
+let r = 960;
 
 var largest_number;
  if (p>q){
